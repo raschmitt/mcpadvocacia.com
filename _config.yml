@@ -48,6 +48,10 @@ social:
   #   url: http://twitter.com/jekyllrb
   - title: facebook
     url:
+  - title: linkedin
+    url:
+  - title: instagram
+    url:
   # - title: stack-overflow
   #   url: http://stackoverflow.com/questions/tagged/jekyll
   # - title: bitbucket 
