@@ -12,6 +12,7 @@ people:
 - name: Caroline Piaz
   pic: 1
   position: Advogada
+  oab: 1234-56
   social:
     - title: linkedin
     #   url: #
@@ -23,6 +24,7 @@ people:
 - name: Maitê De Mendonça Grigull
   pic: 2
   position: Advogada
+  oab: 1234-56
   social:
     # - title: twitter
     #   url: #
