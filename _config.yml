@@ -13,6 +13,7 @@ people:
   pic: 1
   position: Advogada
   oab: 1234-56
+  phone: (47) 12345-1234
   social:
     - title: linkedin
     #   url: #
@@ -25,6 +26,7 @@ people:
   pic: 2
   position: Advogada
   oab: 1234-56
+  phone: (47) 12345-1234
   social:
     # - title: twitter
     #   url: #
