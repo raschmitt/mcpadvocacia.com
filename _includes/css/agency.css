@@ -263,6 +263,8 @@ nav.navbar.navbar-default.navbar-fixed-top.navbar-shrink {
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
+        font-family: 'Forum';
+        font-weight: bold
     }
 
     .navbar-default .navbar-nav>.active>a {
@@ -681,6 +683,11 @@ section h3.section-subheading {
     }
 }
 
+#team {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
 .team-member {
     margin-bottom: 50px;
     text-align: center;
@@ -700,14 +707,6 @@ section h3.section-subheading {
 .team-member p {
     margin-top: 0;
 }
-
-.vertical-center {
-    /* min-height: 100%;  Fallback for browsers do NOT support vh unit */
-    min-height: 100vh; /* These two lines are counted as one :-)       */
-  
-    /* display: flex; */
-    /* align-items: center; */
-  }
 
 .margin-bottom-zero {
     margin-bottom: 0;
