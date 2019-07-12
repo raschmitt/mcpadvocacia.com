@@ -63,7 +63,7 @@ h6 {
 
 .bg-light-gray {
     background-color: #f7f7f7;
-    height: 100vh
+    /* height: 100vh */
 }
 
 .bg-darkest-gray {
@@ -683,10 +683,10 @@ section h3.section-subheading {
     }
 }
 
-#team {
+/* #team {
     margin-top: auto;
     margin-bottom: auto;
-}
+} */
 
 .team-member {
     margin-bottom: 50px;
