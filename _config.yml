@@ -14,6 +14,7 @@ people:
   position: Advogada
   oab: 1234-56
   phone: (47) 12345-1234
+  email: caroline@mcpadvocacia.com.br
   social:
     - title: linkedin
     #   url: #
@@ -27,6 +28,7 @@ people:
   position: Advogada
   oab: 1234-56
   phone: (47) 12345-1234
+  email: maite@mcpadvocacia.com.br
   social:
     # - title: twitter
     #   url: #

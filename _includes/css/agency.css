@@ -63,6 +63,7 @@ h6 {
 
 .bg-light-gray {
     background-color: #f7f7f7;
+    height: 100vh
 }
 
 .bg-darkest-gray {
@@ -186,7 +187,7 @@ nav.navbar.navbar-default.navbar-fixed-top {
 }
 
 nav.navbar.navbar-default.navbar-fixed-top.navbar-shrink {
-    background-color: #222;
+    background-color: #3A444F;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -197,7 +198,7 @@ nav.navbar.navbar-default.navbar-fixed-top.navbar-shrink {
 }
 
 .navbar-default .navbar-collapse {
-    border-color: rgba(255,255,255,.02);
+    border-color: #3A444F;
 }
 
 .navbar-default .navbar-toggle {
@@ -270,7 +271,7 @@ nav.navbar.navbar-default.navbar-fixed-top.navbar-shrink {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: #3A444F;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -372,7 +373,7 @@ section {
 
 section h2.section-heading {
     margin-top: 0;
-    margin-bottom: 5%;
+    margin-bottom: 2%;
     font-size: 28px;
 }
 
@@ -700,6 +701,14 @@ section h3.section-subheading {
     margin-top: 0;
 }
 
+.vertical-center {
+    /* min-height: 100%;  Fallback for browsers do NOT support vh unit */
+    min-height: 100vh; /* These two lines are counted as one :-)       */
+  
+    /* display: flex; */
+    /* align-items: center; */
+  }
+
 .margin-bottom-zero {
     margin-bottom: 0;
 }
@@ -709,7 +718,7 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
+    background-color: #3A444F;
     /* background-image: url('{{ site.baseurl }}/img/map-image.png'); */
     background-position: center;
     background-repeat: no-repeat;
