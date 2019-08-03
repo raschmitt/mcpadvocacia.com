@@ -61,6 +61,7 @@ h6 {
     margin: 0 auto;
 }
 
+
 .bg-light-gray {
     background-color: #f7f7f7;
     /* height: 100vh */
@@ -695,7 +696,7 @@ section h3.section-subheading {
 
 .team-member img {
     margin: 0 auto;
-    border: 7px solid #fff;
+    border: 7px solid #E9E9E9;
 }
 
 .team-member h4 {
@@ -803,6 +804,7 @@ footer ul.quicklinks {
 
 ul.social-buttons {
     margin-bottom: 0;
+    margin-top: 1%
 }
 
 ul.social-buttons li a {

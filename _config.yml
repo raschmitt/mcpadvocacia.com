@@ -9,15 +9,15 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Caroline Piaz
+- name: Caroline Luiza Piaz
   pic: 1
-  position: Advogada
-  oab: 1234-56
-  phone: (47) 12345-1234
+  position: Consultora Jurídica
+  oab: 
+  phone: (47) 98494 - 2710
   email: caroline@mcpadvocacia.com.br
   social:
     - title: linkedin
-    #   url: #
+      url: https://www.linkedin.com/in/caroline-luiza-piaz-386a96161/
     # - title: facebook
     #   url: #
     # - title: stack-overflow
@@ -26,8 +26,8 @@ people:
 - name: Maitê De Mendonça Grigull
   pic: 2
   position: Advogada
-  oab: 1234-56
-  phone: (47) 12345-1234
+  oab: 55.7353
+  phone: (47) 99116 - 6383
   email: maite@mcpadvocacia.com.br
   social:
     # - title: twitter
@@ -35,7 +35,7 @@ people:
     # - title: facebook
     #   url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/mait%C3%AA-de-mendon%C3%A7a-grigull-033966184/
 
 # - name: Diana Petersen
 #   pic: 3
