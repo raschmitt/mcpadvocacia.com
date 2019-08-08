@@ -56,7 +56,7 @@ social:
   #   url:
   - title: linkedin
     url: https://www.linkedin.com/in/mcpadvocacia/
-   - title: instagram
+  - title: instagram
     url: https://www.instagram.com/mcpadvocacia/
   # - title: stack-overflow
   #   url: http://stackoverflow.com/questions/tagged/jekyll
