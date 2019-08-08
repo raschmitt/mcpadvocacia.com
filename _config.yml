@@ -52,12 +52,12 @@ people:
 social:
   # - title: twitter
   #   url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
+  # - title: facebook
+  #   url:
   - title: linkedin
-    url:
-  - title: instagram
-    url:
+    url: https://www.linkedin.com/in/mcpadvocacia/
+  # - title: instagram
+  #   url:
   # - title: stack-overflow
   #   url: http://stackoverflow.com/questions/tagged/jekyll
   # - title: bitbucket 
