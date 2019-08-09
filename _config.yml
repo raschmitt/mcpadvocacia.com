@@ -52,8 +52,8 @@ people:
 social:
   # - title: twitter
   #   url: http://twitter.com/jekyllrb
-  # - title: facebook
-  #   url:
+  - title: facebook
+    url: https://www.facebook.com/mcpadvogadosassociados/
   - title: linkedin
     url: https://www.linkedin.com/in/mcpadvocacia/
   - title: instagram
