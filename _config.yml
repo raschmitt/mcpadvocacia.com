@@ -57,11 +57,11 @@ social:
   # - title: twitter
   #   url: http://twitter.com/jekyllrb
   - title: facebook
-    url: https://www.facebook.com/mcpadvogadosassociados/
-  - title: linkedin
-    url: http://linkedin.com/company/mcp-advogados-associados
+    url: https://www.facebook.com/mendoncaepiaz/
+  # - title: linkedin
+  #   url: http://linkedin.com/company//mendoncaepiaz/
   - title: instagram
-    url: https://www.instagram.com/mcpadvocacia/
+    url: https://www.instagram.com/mendoncaepiaz/
   # - title: stack-overflow
   #   url: http://stackoverflow.com/questions/tagged/jekyll
   # - title: bitbucket 
