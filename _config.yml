@@ -1,10 +1,10 @@
-url: http://mcpadvocacia.com
+url: http://mepadvocacia.com
 baseurl: 
 
 # Site settings
-title: MCP Advogados Associados
-email: your-email@domain.com
-description: "MCP Advogados Associados"
+title: M&P Advogados Associados
+email: contato@mepadvocacia.com
+description: "M&P Advogados Associados"
 
 
 # Team names, titles and social links
@@ -18,6 +18,8 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/caroline-luiza-piaz-386a96161/
+    - title: whatsapp
+      url: https://api.whatsapp.com/send?l=pt_pt&amp;phone=5547984942710
     # - title: facebook
     #   url: #
     # - title: stack-overflow
@@ -36,6 +38,8 @@ people:
     #   url: #
     - title: linkedin
       url: https://www.linkedin.com/in/mait%C3%AA-de-mendon%C3%A7a-grigull-033966184/
+    - title: whatsapp
+      url: https://api.whatsapp.com/send?l=pt_pt&amp;phone=5547991166383
 
 # - name: Diana Petersen
 #   pic: 3
@@ -66,9 +70,9 @@ social:
   #   url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+# address:
+#   - line: 3481 Melrose Place
+#   - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
