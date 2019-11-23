@@ -931,3 +931,7 @@ body {
 .dev-href {
     color: #222
 }
+
+.navbar-default .navbar-brand {
+    font-family: 'Forum';
+}
