@@ -188,7 +188,7 @@ nav.navbar.navbar-default.navbar-fixed-top {
 }
 
 nav.navbar.navbar-default.navbar-fixed-top.navbar-shrink {
-    background-color: #3A444F;
+    background-color: #31424E;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -199,7 +199,7 @@ nav.navbar.navbar-default.navbar-fixed-top.navbar-shrink {
 }
 
 .navbar-default .navbar-collapse {
-    border-color: #3A444F;
+    border-color: #31424E;
 }
 
 .navbar-default .navbar-toggle {
@@ -274,7 +274,7 @@ nav.navbar.navbar-default.navbar-fixed-top.navbar-shrink {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #3A444F;
+        background-color: #31424E;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -320,7 +320,7 @@ header .intro-text .intro-heading {
     height: 100%;
     text-align: center;
     color: #fff;
-    background-color: #3A444F;
+    background-color: #31424E;
 
     /* background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/header-bg.png');
@@ -718,7 +718,7 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #3A444F;
+    background-color: #31424E;
     /* background-image: url('{{ site.baseurl }}/img/map-image.png'); */
     background-position: center;
     background-repeat: no-repeat;
@@ -816,7 +816,7 @@ ul.social-buttons li a {
     line-height: 40px;
     outline: 0;
     color: #fff;
-    background-color: #3A444F;
+    background-color: #31424E;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
